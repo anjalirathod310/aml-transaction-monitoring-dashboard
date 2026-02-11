@@ -42,11 +42,11 @@ laundering indicator (used only for validation).
 
 **1.Data Preparation (Python)**
 
-Cleaned and standardized transaction data
+* Cleaned and standardized transaction data
 
-Created timestamp fields
+* Created timestamp fields
 
-Performed intelligent sampling while preserving risky behavior
+* Performed intelligent sampling while preserving risky behavior
 
 
 **2. Engineered behavioral metrics:**
@@ -90,20 +90,20 @@ Performed intelligent sampling while preserving risky behavior
 
 **7. Key Outcomes:**
 
-Converted raw transaction data into explainable risk insights
+* Converted raw transaction data into explainable risk insights
 
-Designed a structured fact–dimension model for analytics
+* Designed a structured fact–dimension model for analytics
 
-Built a clean AML monitoring dashboard aligned with investigation workflows 
+* Built a clean AML monitoring dashboard aligned with investigation workflows 
 
 
 **8. Future Improvements**
 
-Network graph visualization
+* Network graph visualization
 
-Time-series anomaly monitoring
+* Time-series anomaly monitoring
 
-Rule tuning and performance evaluation
+* Rule tuning and performance evaluation
 
 ## Dashboard Preview
 ![Overview](page_1.png)
