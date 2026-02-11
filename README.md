@@ -83,13 +83,13 @@ Performed intelligent sampling while preserving risky behavior
 * high-risk customer investigation table
 
 
-**Dashboard Highlights**
+**6. Dashboard Highlights**
 
 * Total transaction volume \& alert rate KPIs
 * Customer risk prioritization view
 
 
-**Key Outcomes:**
+**7. Key Outcomes:**
 
 Converted raw transaction data into explainable risk insights
 
@@ -98,7 +98,7 @@ Designed a structured fact–dimension model for analytics
 Built a clean AML monitoring dashboard aligned with investigation workflows
 
 
-**Future Improvements**
+**8. Future Improvements**
 
 Network graph visualization
 
