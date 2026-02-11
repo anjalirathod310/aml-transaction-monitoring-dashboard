@@ -4,6 +4,10 @@
 
 This project focuses on analyzing large-scale transaction data to identify suspicious behavioral patterns and generate customer-level risk insights. The workflow covers data cleaning, feature engineering, SQL-based analysis, and building an investigation-focused dashboard in Power BI.
 
+## Dashboard Preview
+![Overview](page_1.png)
+![Customer Risk](page_2.png)
+
 
 **Problem Statement**
 
@@ -91,20 +95,12 @@ laundering indicator (used only for validation).
 **7. Key Outcomes:**
 
 * Converted raw transaction data into explainable risk insights
-
 * Designed a structured fact–dimension model for analytics
-
 * Built a clean AML monitoring dashboard aligned with investigation workflows 
 
 
 **8. Future Improvements**
 
 * Network graph visualization
-
 * Time-series anomaly monitoring
-
 * Rule tuning and performance evaluation
-
-## Dashboard Preview
-![Overview](page_1.png)
-![Customer Risk](page_2.png)
