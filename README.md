@@ -88,14 +88,13 @@ Performed intelligent sampling while preserving risky behavior
 * Total transaction volume \& alert rate KPIs
 * Customer risk prioritization view
 
-
 **7. Key Outcomes:**
 
 Converted raw transaction data into explainable risk insights
 
 Designed a structured fact–dimension model for analytics
 
-Built a clean AML monitoring dashboard aligned with investigation workflows
+Built a clean AML monitoring dashboard aligned with investigation workflows 
 
 
 **8. Future Improvements**
@@ -106,3 +105,6 @@ Time-series anomaly monitoring
 
 Rule tuning and performance evaluation
 
+## Dashboard Preview
+![Overview](page_1.png)
+![Customer Risk](page_2.png)
